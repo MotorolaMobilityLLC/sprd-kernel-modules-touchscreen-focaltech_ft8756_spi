@@ -1,0 +1,1 @@
+# sprd-kernel-modules-touchscreen-focaltech_ft8756_spi
